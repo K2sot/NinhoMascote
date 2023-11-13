@@ -1,5 +1,5 @@
 {
-    "sketch": "Mascote_1.ino",
+    "sketch": "MAin.ino",
     "board": "arduino:avr:mega",
     "configuration": "cpu=atmega2560",
     "port": "COM3"
